@@ -43,3 +43,4 @@ if moveY != 0 {
 	}
 
 }	
+// test komentar
