@@ -4,11 +4,7 @@
  
  spd = n_spd
  
- if !place_meeting(x, y + 1, obj_ground)
-    {
-    gravity = 0.001;
-    }
-else
-    {
-    gravity = 0;
-    }
+ grv = 40 / room_speed
+ vsped = 0
+ jump_spd = 10
+ 

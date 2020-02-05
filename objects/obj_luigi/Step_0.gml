@@ -1,7 +1,14 @@
+
+//gravity
+
+
+
+
+
  input_left  =	keyboard_check(vk_left) ;
  input_right =	keyboard_check(vk_right) ;
  input_up    =	keyboard_check(vk_up) ;
- input_down	 =	keyboard_check(vk_down) ;
+ 
  input_walk  =  keyboard_check(vk_control)
  input_run   =  keyboard_check(vk_shift)
  
@@ -14,11 +21,10 @@ moveY = 0;
 
 movex = (input_right - input_left) * spd;
 
+if (place_meeting(x, y+1, obj_collision)) and input_up { vsped = -jump_spd }
+ vsped += grv 
+ moveY = vsped
 //collision check
-
-
-x += movex
-y += moveY
 
 //horisontal collision
 if movex != 0 {
@@ -40,7 +46,11 @@ if moveY != 0 {
 			} else break 
 		}
 		moveY = 0;
+		vsped =0;
 	}
 
 }	
-// test komentar
+
+x += movex
+y += moveY
+
