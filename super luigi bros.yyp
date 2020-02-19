@@ -175,14 +175,6 @@
             }
         },
         {
-            "Key": "be7d4613-4823-4b22-970d-8c140795ca93",
-            "Value": {
-                "id": "5c16f09f-cc4e-4852-a60a-a174a76cb16e",
-                "resourcePath": "sprites\\spr_BigLuigi\\spr_BigLuigi.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "c5e8edc9-0dff-494e-99b4-6571ffc10a88",
             "Value": {
                 "id": "2a9f498c-ae88-4002-b062-4b39a4530f7c",
