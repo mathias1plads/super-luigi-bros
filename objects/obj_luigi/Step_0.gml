@@ -54,3 +54,4 @@ if moveY != 0 {
 x += movex
 y += moveY
 
+//test
