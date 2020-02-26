@@ -47,6 +47,22 @@
             }
         },
         {
+            "Key": "19e654bb-b9da-4e2e-a272-7e9316a0805b",
+            "Value": {
+                "id": "abaee463-d6de-4387-bc79-a8cd52e8d290",
+                "resourcePath": "sprites\\spr_mushroom\\spr_mushroom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "22ae06e6-6157-40a4-9740-a005516fa623",
+            "Value": {
+                "id": "0e91c76e-603f-42bc-ba9e-681e66241f1d",
+                "resourcePath": "objects\\obj_mushroom\\obj_mushroom.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3088c403-da78-466b-a433-94a35de32f4c",
             "Value": {
                 "id": "90bb9b3a-00f4-4362-8e56-a24270f60300",
@@ -84,6 +100,14 @@
                 "id": "90ddcd49-d39b-4bea-9f0a-3301a0e9f98e",
                 "resourcePath": "views\\493cd6c1-7ec1-4a7f-a8e2-5953e831c8f5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "581eeb65-5dab-4db9-8fcc-8dc1d970b850",
+            "Value": {
+                "id": "b8e982f2-3b6a-4c78-978e-6fb886bd2e72",
+                "resourcePath": "sprites\\spr_bigluigi\\spr_bigluigi.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

@@ -55,3 +55,5 @@ x += movex
 y += moveY
 
 //test
+if place_meeting(x,y,obj_mushroom)
+{sprite_index = spr_biglugi}
