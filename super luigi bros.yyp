@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "c64ebb9c-3fd6-42fd-9de2-6813ce45a92a",
+            "Value": {
+                "id": "c454b004-c001-4bb6-b727-5fb8c66ee2a8",
+                "resourcePath": "sprites\\spr_FireFlower\\spr_FireFlower.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fc25a3bc-19c4-40bd-93b6-5fd21a542c12",
