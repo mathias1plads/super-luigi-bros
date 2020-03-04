@@ -5,9 +5,9 @@ if keyboard_check_pressed(ord("R")) game_restart();
 
 
 
- input_left  =	keyboard_check(vk_left) ;
- input_right =	keyboard_check(vk_right) ;
- input_up    =	keyboard_check(vk_up) ;
+ input_left  =	keyboard_check(ord("A"));
+ input_right =	keyboard_check(ord("D"));
+ input_up    =	keyboard_check(vk_space);
  
  input_walk  =  keyboard_check(vk_control)
  input_run   =  keyboard_check(vk_shift)
