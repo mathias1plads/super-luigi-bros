@@ -54,6 +54,9 @@ if moveY != 0 {
 x += movex
 y += moveY
 
+
+
+
 //test
 if place_meeting(x,y,obj_mushroom)
 {
