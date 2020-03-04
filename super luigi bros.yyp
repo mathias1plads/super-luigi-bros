@@ -103,10 +103,26 @@
             }
         },
         {
+            "Key": "562f2d26-1f9f-401d-83d1-1ade78944b6c",
+            "Value": {
+                "id": "07e6ca1a-369e-435e-91e6-5b8b3fd38678",
+                "resourcePath": "sprites\\sprite4\\sprite4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "581eeb65-5dab-4db9-8fcc-8dc1d970b850",
             "Value": {
                 "id": "b8e982f2-3b6a-4c78-978e-6fb886bd2e72",
                 "resourcePath": "sprites\\spr_bigluigi\\spr_bigluigi.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6e3faa42-ff93-4bde-9175-3d84fe1709d5",
+            "Value": {
+                "id": "819ba043-9743-4f48-b058-1a5d1dc8c930",
+                "resourcePath": "sprites\\spr_luigi2\\spr_luigi2.yy",
                 "resourceType": "GMSprite"
             }
         },
