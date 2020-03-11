@@ -21,7 +21,14 @@ moveY = 0;
 
 movex = (input_right - input_left) * spd;
 
-if (place_meeting(x, y+1, obj_collision)) and input_up { vsped = -jump_spd }
+if (place_meeting(x, y+1, obj_collision)) and input_up { 
+	vsped = -njump_spd 
+	if (y > 320){
+		vsped = -hjump_spd
+	}
+}
+
+
  vsped += grv 
  moveY = vsped
 //collision check
@@ -54,8 +61,10 @@ if moveY != 0 {
 x += movex
 y += moveY
 
-
-
+if place_meeting(x,y,obj_death)
+{
+	game_restart();
+}
 
 //test
 if place_meeting(x,y,obj_mushroom)

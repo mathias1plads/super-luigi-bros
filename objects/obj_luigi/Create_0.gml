@@ -6,5 +6,5 @@
  
  grv = 40 / room_speed
  vsped = 0
- jump_spd = 10
- 
+ njump_spd = 10
+ hjump_spd = 20
