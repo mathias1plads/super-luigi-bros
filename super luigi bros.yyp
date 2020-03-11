@@ -215,6 +215,14 @@
             }
         },
         {
+            "Key": "c80a9cdf-7809-430d-ba07-4a2b42bfd8e9",
+            "Value": {
+                "id": "d9836d04-44eb-4ce1-96de-a694ad3d59db",
+                "resourcePath": "paths\\path_mushroom\\path_mushroom.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "fc25a3bc-19c4-40bd-93b6-5fd21a542c12",

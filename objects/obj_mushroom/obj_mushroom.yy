@@ -4,7 +4,26 @@
     "mvc": "1.0",
     "name": "obj_mushroom",
     "eventList": [
-        
+        {
+            "id": "86f05799-3919-4721-942f-3ca670967aa4",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "22ae06e6-6157-40a4-9740-a005516fa623"
+        },
+        {
+            "id": "82980068-d6a1-4c48-bfc2-e16a5ea63ecf",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "22ae06e6-6157-40a4-9740-a005516fa623"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -22,7 +41,9 @@
     "physicsShape": 1,
     "physicsShapePoints": null,
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        
+    ],
     "solid": false,
     "spriteId": "19e654bb-b9da-4e2e-a272-7e9316a0805b",
     "visible": true
